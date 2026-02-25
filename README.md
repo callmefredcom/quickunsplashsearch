@@ -2,6 +2,12 @@
 
 A lightweight, self-hosted web tool for searching Unsplash, previewing results in a visual grid, selecting images, and downloading them as a named zip file — all from your browser, running locally.
 
+## Demo
+
+[![Quick Unsplash Search — demo video](https://cdn.loom.com/sessions/thumbnails/12c56842dcbe4c3393930c09169ad68a-with-play.gif)](https://www.loom.com/share/12c56842dcbe4c3393930c09169ad68a)
+
+---
+
 > **Disclaimer:** This tool is an independent open-source project. It is not affiliated with, endorsed by, or officially connected to [Unsplash](https://unsplash.com) in any way. Use of the Unsplash API is subject to the [Unsplash API Terms](https://unsplash.com/api-terms).
 
 ---
