@@ -4,7 +4,7 @@ A lightweight, self-hosted web tool for searching Unsplash, previewing results i
 
 ## Demo
 
-<video src="https://github.com/callmefredcom/quickunsplashsearch/releases/download/v1.0.0/demo.mp4" controls width="100%" title="Quick Unsplash Search — demo"></video>
+[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/12c56842dcbe4c3393930c09169ad68a-with-play.gif)](https://www.loom.com/share/12c56842dcbe4c3393930c09169ad68a)
 
 ---
 
